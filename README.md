@@ -1,2 +1,0 @@
-# jackforsyth.com
-jackforsyth.com
