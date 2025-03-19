@@ -1,0 +1,41 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #F9F8F8;
+}
+
+header.header {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+header.header h1 {
+  font-size: 50px;
+  font-size: 6.5vw;
+  color: #222222;
+  margin-top: 0;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+a {
+  text-decoration: none;
+  color: #222222;
+}
+
+a:hover, a:active {
+  color: #4e4e4e
+}
+
+a:visited {
+  color: #222222;
+}
